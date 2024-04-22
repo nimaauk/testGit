@@ -6,6 +6,6 @@ def happy_birthday(name):
     print("Happy Birthday to you")
 
 
-happy_birthday("Nima")
+happy_birthday("Nimaa")
 
 
